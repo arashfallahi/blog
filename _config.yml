@@ -23,7 +23,7 @@ title: "A Software Developer's Perspective: Thoughts and Experiences"
 description: >- # this means to ignore newlines until "baseurl:"
   Programmers often enjoy the pleasure of coding and creating stuff, which is why they love their work. Writing has a similar effect on me, and sharing the knowledge and experience I gain from programming through writing enhances this pleasure.
 baseurl: '/blog' # the subpath of your site, e.g. /blog
-url: 'https://arashfallahi.com/blog' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://arashfallahi.github.io/blog' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arashfallahi
 github_username: arashfallahi
 
